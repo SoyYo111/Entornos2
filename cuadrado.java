@@ -10,3 +10,6 @@ public class Practica2 {
         
         System.out.print("Introduzca número: ");
 		num=teclado.nextInt();
+
+         while(num>=0){ 
+		 cuadrado=num*num;
