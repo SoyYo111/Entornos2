@@ -7,7 +7,7 @@ public class Practica2 {
 	{
 		 Scanner teclado = new Scanner( System.in );
 		// TODO Auto-generated method stub
-		 int num,cuadrado;
+		 int num,cuadrado,hhha,dfasf;
 		
 		 System.out.print("Introduzca número: ");
 		 num=teclado.nextInt();
