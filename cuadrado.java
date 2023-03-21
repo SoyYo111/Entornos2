@@ -8,6 +8,7 @@ public class Practica2 {
 		 Scanner teclado = new Scanner( System.in );
 
  TODO Auto-generated method stub1
+ TODO Auto-generated method stub3
 
 
 System.out.print("Introduzca númeroa: ");
