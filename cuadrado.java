@@ -8,7 +8,7 @@ public class Practica2 {
 		 Scanner teclado = new Scanner( System.in );
 		// TODO Auto-generated method stub
 
-		
+System.out.print("Introduzca númeroa: ");
 		 System.out.print("Introduzca númeroo: ");
 		 num=teclado.nextInt();
 		 while(num>=0){ 
