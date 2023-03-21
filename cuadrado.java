@@ -6,7 +6,9 @@ public class Practica2 {
 	public static void main(String[] args) 
 	{
 		 Scanner teclado = new Scanner( System.in );
-		// TODO Auto-generated method stub1
+
+ TODO Auto-generated method stub1
+
 
 System.out.print("Introduzca númeroa: ");
 		 System.out.print("Introduzca númeroo: ");
