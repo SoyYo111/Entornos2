@@ -5,7 +5,9 @@ public class Practica2 {
 
 	public static void main(String[] args) 
 	{
-		 Scanner teclado1 = new Scanner( System.in );
+
+		 Scanner teclado5 = new Scanner( System.in );
+
 
  TODO Auto-generated method stub1
 
