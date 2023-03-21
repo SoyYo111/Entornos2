@@ -9,7 +9,7 @@ public class Practica2 {
 		// TODO Auto-generated method stub
 
 		
-		 System.out.print("Introduzca número: ");
+		 System.out.print("Introduzca númeroa: ");
 		 num=teclado.nextInt();
 		 while(num>=0){ 
 		 cuadrado=num*num;
